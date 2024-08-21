@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//tinder que falhou ou tinder 0.5
 public class Uni6Exe5 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
