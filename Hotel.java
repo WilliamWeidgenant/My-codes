@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Sistema básico da controle de hóspedes de Hotel
 public class Uni5Exe34 {
     public static void main(String[] args) {
         int menu, diarias, encerrados = 0;
