@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Tabela e pesquisa de valores
 public class Uni6Exe10 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
